@@ -1,0 +1,402 @@
+[
+    {
+        "nim": 22178,
+        "nama": "sulthon",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-07-25",
+        "alamat": "tidar"
+    },
+    {
+        "nim": 22179,
+        "nama": "daffa",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "surabaya",
+        "tanggal_lahir": "2000-07-30",
+        "alamat": "bandulan"
+    },
+    {
+        "nim": 22180,
+        "nama": "stivani",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "blitar",
+        "tanggal_lahir": "2000-08-19",
+        "alamat": "bandulan"
+    },
+    {
+        "nim": 22181,
+        "nama": "rahma",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-09-15",
+        "alamat": "dinoyo"
+    },
+    {
+        "nim": 22182,
+        "nama": "aulia",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-10-12",
+        "alamat": "ngaglik"
+    },
+    {
+        "nim": 22183,
+        "nama": "wijaya",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-12-12",
+        "alamat": "tanimbar"
+    },
+    {
+        "nim": 22184,
+        "nama": "putra",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "jakarta",
+        "tanggal_lahir": "2000-12-24",
+        "alamat": "merjosari"
+    },
+    {
+        "nim": 22185,
+        "nama": "budi",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "jogja",
+        "tanggal_lahir": "2000-06-06",
+        "alamat": "malioboro"
+    },
+    {
+        "nim": 22186,
+        "nama": "ani",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "jogja",
+        "tanggal_lahir": "2000-06-07",
+        "alamat": "malioboro"
+    },
+    {
+        "nim": 22187,
+        "nama": "siti",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2020-02-20",
+        "alamat": "jl.tanimbar"
+    },
+    {
+        "nim": 22188,
+        "nama": "rea",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "bengkulu",
+        "tanggal_lahir": "2000-01-07",
+        "alamat": "ade irma suryani"
+    },
+    {
+        "nim": 22189,
+        "nama": "ara",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "pekalongan",
+        "tanggal_lahir": "2000-11-17",
+        "alamat": "pattimura"
+    },
+    {
+        "nim": 22190,
+        "nama": "rafael",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "pemalang",
+        "tanggal_lahir": "2000-10-27",
+        "alamat": "bunga coklat"
+    },
+    {
+        "nim": 22191,
+        "nama": "danny",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-07-07",
+        "alamat": "sukun"
+    },
+    {
+        "nim": 22192,
+        "nama": "vicky",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-09-07",
+        "alamat": "sukun"
+    },
+    {
+        "nim": 22193,
+        "nama": "dwi",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-09-18",
+        "alamat": "wagir"
+    },
+    {
+        "nim": 22194,
+        "nama": "juli",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-07-18",
+        "alamat": "wagir"
+    },
+    {
+        "nim": 22195,
+        "nama": "candra",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-05-25",
+        "alamat": "sukun"
+    },
+    {
+        "nim": 22196,
+        "nama": "bumi",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "surabaya",
+        "tanggal_lahir": "2000-05-10",
+        "alamat": "mulyorejo"
+    },
+    {
+        "nim": 22197,
+        "nama": "aigarrifa",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-01",
+        "alamat": "veteran"
+    },
+    {
+        "nim": 22198,
+        "nama": "akbar",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-02",
+        "alamat": "sumbersari"
+    },
+    {
+        "nim": 22199,
+        "nama": "aldira",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-03",
+        "alamat": "janti"
+    },
+    {
+        "nim": 22200,
+        "nama": "alexandria",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-04",
+        "alamat": "jl. jakarta"
+    },
+    {
+        "nim": 22201,
+        "nama": "amelfinda",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-05",
+        "alamat": "jl. surabaya"
+    },
+    {
+        "nim": 22202,
+        "nama": "ameylia",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-06",
+        "alamat": "jl. sulawesi"
+    },
+    {
+        "nim": 22203,
+        "nama": "angalia",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-07",
+        "alamat": "jl. sumatera"
+    },
+    {
+        "nim": 22204,
+        "nama": "bagus",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-08",
+        "alamat": "jl. kalimantan"
+    },
+    {
+        "nim": 22205,
+        "nama": "berlian",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-09",
+        "alamat": "jl. papua"
+    },
+    {
+        "nim": 22206,
+        "nama": "chemika",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "malang",
+        "tanggal_lahir": "2000-01-10",
+        "alamat": "jl. bogor"
+    },
+    {
+        "nim": 22207,
+        "nama": "fadhil",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "solo",
+        "tanggal_lahir": "2000-01-11",
+        "alamat": "jl. bareng"
+    },
+    {
+        "nim": 22208,
+        "nama": "febreeoctoreesyah",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "solo",
+        "tanggal_lahir": "2000-01-12",
+        "alamat": "karang besuki"
+    },
+    {
+        "nim": 22209,
+        "nama": "hilda",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "jeddah",
+        "tanggal_lahir": "2000-09-11",
+        "alamat": "araya"
+    },
+    {
+        "nim": 22210,
+        "nama": "zajuli",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "kuala lumpur",
+        "tanggal_lahir": "2000-10-11",
+        "alamat": "ijen"
+    },
+    {
+        "nim": 22211,
+        "nama": "geraldo",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "solo",
+        "tanggal_lahir": "2000-01-13",
+        "alamat": "karang besuki"
+    },
+    {
+        "nim": 22212,
+        "nama": "ivan",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "solo",
+        "tanggal_lahir": "2000-01-14",
+        "alamat": "kintamani"
+    },
+    {
+        "nim": 22213,
+        "nama": "jihan",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "solo",
+        "tanggal_lahir": "2000-01-15",
+        "alamat": "kerto pamuji"
+    },
+    {
+        "nim": 22214,
+        "nama": "ken dyah",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "solo",
+        "tanggal_lahir": "2000-01-16",
+        "alamat": "kerto asri"
+    },
+    {
+        "nim": 22215,
+        "nama": "kheisya",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "solo",
+        "tanggal_lahir": "2000-01-17",
+        "alamat": "galunggung"
+    },
+    {
+        "nim": 22216,
+        "nama": "lovina",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-01-18",
+        "alamat": "jl. sukarno"
+    },
+    {
+        "nim": 22217,
+        "nama": "rifan",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-01-19",
+        "alamat": "jl. megawati"
+    },
+    {
+        "nim": 22218,
+        "nama": "mozza",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-01-20",
+        "alamat": "jl. habibi"
+    },
+    {
+        "nim": 22219,
+        "nama": "bilal",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-01-21",
+        "alamat": "jl. coklat"
+    },
+    {
+        "nim": 22220,
+        "nama": "briant",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-01-22",
+        "alamat": "jl. kuning"
+    },
+    {
+        "nim": 22221,
+        "nama": "nararya",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-01-23",
+        "alamat": "jl. biru"
+    },
+    {
+        "nim": 22222,
+        "nama": "achmad",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-01-24",
+        "alamat": "jl. hijau"
+    },
+    {
+        "nim": 22223,
+        "nama": "agatha",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-01-25",
+        "alamat": "jl. merah"
+    },
+    {
+        "nim": 22224,
+        "nama": "alfi",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "bandung",
+        "tanggal_lahir": "2000-01-26",
+        "alamat": "jl. putih"
+    },
+    {
+        "nim": 22225,
+        "nama": "rosella",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "semarang",
+        "tanggal_lahir": "2000-01-27",
+        "alamat": "jl. kenanga"
+    },
+    {
+        "nim": 22226,
+        "nama": "tsabita",
+        "jenis_kelamin": "perempuan",
+        "tempat_lahir": "semarang",
+        "tanggal_lahir": "2000-01-28",
+        "alamat": "jl. mawar"
+    },
+    {
+        "nim": 20210012,
+        "nama": "yudha",
+        "jenis_kelamin": "laki-laki",
+        "tempat_lahir": "jombang",
+        "tanggal_lahir": "2007-10-11",
+        "alamat": "rampal"
+    }
+]
